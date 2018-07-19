@@ -11,7 +11,7 @@ textarea{resize:none}
 address,caption,cite,code,dfn,em,i,th,var{font-style:normal;font-weight:normal;}
 legend{color:#000;}
 abbr,acronym{border:0;font-variant:normal;}
-a{color:#0a8cd2;text-decoration:none;}
+a{color:#393;text-decoration:none;}
 a:hover{ color:#f60;text-decoration:underline;}
 .clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
 .clearfix{display:inline-block;}
